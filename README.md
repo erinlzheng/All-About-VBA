@@ -1,6 +1,3 @@
-# Homework-2---VBA-
-VBA Scripting Homework
-# VBA Homework - The VBA of Wall Street
 
 ## Background
 
